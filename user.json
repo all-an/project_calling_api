@@ -1,5 +1,21 @@
-{
-    "firstName": "James",
-    "lastName": "Gosling",
-    "age": 25
-}
+[
+    {
+        "firstName": "James",
+        "lastName": "Gosling",
+        "age": 25
+    },
+
+    {
+        "firstName": "Dennis",
+        "lastName": "Ritchie",
+        "age": 29
+    },
+    
+    {
+        "firstName": "Brendan",
+        "lastName": "Eich",
+        "age": 19
+    }
+]
+    
+

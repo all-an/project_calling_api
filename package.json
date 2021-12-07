@@ -1,0 +1,27 @@
+{
+  "name": "project_calling_api",
+  "version": "1.0.0",
+  "description": "Javascript NodeJs Express backend API with HTML table GET request",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-an/project_calling_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/all-an/project_calling_api/issues"
+  },
+  "homepage": "https://github.com/all-an/project_calling_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

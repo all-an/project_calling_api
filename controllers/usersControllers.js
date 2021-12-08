@@ -9,7 +9,7 @@ export const getUsers = (req, res) => {
 
 export const createUser = (req, res) => {
      
-    const user = req.body;
+    const user = req.body;   
     
     //const userId = uuidv4();
     //const userWithId = { ...user, id: uuidv4() }

@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/all-an/project_calling_api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
   },
